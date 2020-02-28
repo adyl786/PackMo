@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:statusBarColor">@color/subColor</item>
+    </style>
+
+    <style name="Custom.TextInputLayout" parent="TextAppearance.AppCompat">
+        <item name="android:textColorHint">#000000</item>
+        <item name="colorAccent">#22c2f5</item>
+        <item name="android:colorControlNormal">#22c2f5</item>
+        <item name="android:colorControlActivated">#22c2f5</item>
+    </style>
+</resources>

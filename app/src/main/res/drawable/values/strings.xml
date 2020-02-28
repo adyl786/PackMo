@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LoginAppDemo</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="enter_valid_password">Enter valid password</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weight_prompt">Choose weight</string>
+    <string-array name="weights">
+        <item>500KG</item>
+        <item>1000KG</item>
+        <item>1500KG</item>
+        <item>2000KG</item>
+        <item>2500KG</item>
+        <item>5000KG</item>
+        <item>10000KG</item>
+    </string-array>
+</resources>
